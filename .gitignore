@@ -1,0 +1,3 @@
+venv/
+student/app/__pycache__/
+student/student/__pycache__/
